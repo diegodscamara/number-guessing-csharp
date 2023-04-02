@@ -1,5 +1,3 @@
-# number-guessing-csharp
-
 # Number Guessing Game
 
 This is a simple console application that generates a random number and asks the user to guess it. The program will provide feedback to the user on whether their guess was too high or too low, and keep track of the number of guesses it takes to get the correct answer.
