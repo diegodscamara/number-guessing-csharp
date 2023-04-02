@@ -17,21 +17,21 @@ git clone <https://github.com/diegodscamara/number-guessing-csharp.git>
 
 ```
 
-1. Navigate to the project directory:
+2. Navigate to the project directory:
 
 ```
 cd number-guessing-csharp
 
 ```
 
-1. Build the project:
+3. Build the project:
 
 ```
 dotnet build
 
 ```
 
-1. Run the project:
+4. Run the project:
 
 ```
 dotnet run
