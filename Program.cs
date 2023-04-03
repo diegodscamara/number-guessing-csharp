@@ -2,8 +2,7 @@
 {
     private static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
-
-        Console.WriteLine(1 + 15);
+        int INITIAL_NUMBER = 0;
+        Console.WriteLine(INITIAL_NUMBER);
     }
 }
